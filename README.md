@@ -10,9 +10,9 @@ we give the generator noise as input and we get fake data as output and we cocat
 ## gans networks 
 there a lot of proposed models and we will discuss some of them 
 
-- DCGAN  => ([notebook](https://github.com/Ahmed-M0hamed/generative-network/DCGAN.ipynb))
-- CGAN   => ([notebook](https://github.com/Ahmed-M0hamed/generative-network/CDGAN.ipynb))
-- ACGAN  => ([notebook](https://github.com/Ahmed-M0hamed/generative-network/ACGAN.ipynb))
+- DCGAN  => ([notebook](DCGAN.ipynb))
+- CGAN   => ([notebook](CDGAN.ipynb))
+- ACGAN  => ([notebook](ACGAN.ipynb))
 
 ### this repo is inspired by Advanced deep learning with tensorflow2 and keras book with some changes i commit trying to make it easier or to represent my own understanding 
 
