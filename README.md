@@ -19,7 +19,7 @@ there a lot of proposed models and we will discuss some of them
 - ACGAN tensorflow => ([notebook](tensorlfow_ACGAN.ipynb))
 - ACGAN  pytorch => ([notebook](pytorch_ACGAN.ipynb))
 
-- cycleGan tensorflow => ([notebook](cycleGan.ipynb))
+- cycleGan tensorflow => ([notebook](cycleGAN.ipynb))
 
 ### this repo is inspired by Advanced deep learning with tensorflow2 and keras book with some changes i commit trying to make it easier or to represent my own understanding 
 
